@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/26gYCFcNenajfsnVC/giphy.gif" width="500"/>
 </div>
 
-<!-- Skill badges from https://devicon.dev -->
+<!-- Skill badges from https://devicon.dev
 <div id="skills" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50"/>                  
 </div>
+-->
